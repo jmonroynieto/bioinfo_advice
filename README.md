@@ -21,7 +21,7 @@ Pull request accepted to keep it up to date: gh jmonroynieto/bioinfo_advice
 - Read the logs.
 - Understand the theory of the tools you use \[enough to be able to be critical and competent\].
 - "Check your assumptions and those of the methods you use" @MDMorgan_cam
-- "Don't be afraid to ask questions and engage with others in the field. The more  \[*sic*\] about how others do things, the more you learn" @wessidepraxis
+- "Don't be afraid to ask questions and engage with others in the field. The more prospective \[*sic*\] about how others do things, the more you learn" @wessidepraxis
 
 #### Document
 - Write it down.
