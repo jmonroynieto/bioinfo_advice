@@ -19,6 +19,7 @@ Pull request accepted to keep it up to date: gh jmonroynieto/bioinfo_advice
 - Read the tutorials.
 - Read the papers.
 - Read the logs.
+- Read the code.
 - Understand the theory of the tools you use \[enough to be able to be critical and competent\].
 - "Check your assumptions and those of the methods you use" @MDMorgan_cam
 - "Don't be afraid to ask questions and engage with others in the field. The more prospective \[*sic*\] about how others do things, the more you learn" @wessidepraxis
@@ -54,6 +55,7 @@ Pull request accepted to keep it up to date: gh jmonroynieto/bioinfo_advice
 - Back up your data.
 - Make original data read-only.
 - Set specific seeds to ensure reproducibility.
+- Use reproducible environments (i.e. containers or conda environments).
 - Write tests for your code/analyses.
 - Don't trust any tool blindly. Not all limitations are documented.
 - Learn a bit of sysadmin, and learn how to install things without privileges.
@@ -62,7 +64,7 @@ Pull request accepted to keep it up to date: gh jmonroynieto/bioinfo_advice
 - "Don't trust the sample manifests, \[sic\] genotype everything yourself." @constantAmateur 
 - "An hour eyeballing raw data can save 10 hours of coding." @ppgardne
 - "If you are doing work for someone else, make sure you get them to write a project summary and sample list before you do \[absolutely\] anything. This will preemptively solve a lot of problems." @mdziemann
-- "Be a good accountant" @watsonhaigh \[i.e., Track your read counts\] "Then ask, is that what I expected" ibid. Cor: This also applies to samples/processes and other countable.
+- "Be a good accountant" @watsonhaigh \[i.e. Track your read counts\] "Then ask, is that what I expected" ibid. Cor: This also applies to samples/processes and other countable.
 
 
 #### Coding A.K.A mental health
